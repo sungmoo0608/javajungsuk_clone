@@ -12,5 +12,4 @@ public class Ex3_6 {
 		System.out.printf("%d / %f = %f%n", a, (float)b, a/(float)b);
 		
 	}
-
 }
